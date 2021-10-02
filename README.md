@@ -111,7 +111,6 @@ Note: Duke Nukem 64 renderer requires opengl-enabled builds, which seem to be in
 Copy `nblood` and `nblood.pk3` to `/roms/ports/Blood` for Blood
 
 Copy `pcexhumed` to `/roms/ports/Exhumed` for Exhumed
-Note: pcexhumed does not appear to work with ArkOS at the moment (the game doesn't complete the loading process), but it does work with RetroOz on OGS
 
 For all others see: https://wiki.eduke32.com/wiki/Main_Page
 
